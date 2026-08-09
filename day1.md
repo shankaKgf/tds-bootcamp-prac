@@ -1,4 +1,4 @@
- -[] can open a Linux terminal and recognize the shell prompt (user@machine:~$)
+ - [ ] can open a Linux terminal and recognize the shell prompt (user@machine:~$)
  -[ ] I can run python --version, git --version, and uv --version without errors
  -[ ] I can open VS Code connected to WSL/Linux using code .
  -[ ] I know what ~ means and can navigate to my home directory using cd ~
